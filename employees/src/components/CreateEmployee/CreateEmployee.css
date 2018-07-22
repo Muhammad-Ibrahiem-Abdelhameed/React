@@ -1,0 +1,23 @@
+.CreateEmployee{
+    background-color: rgba(255, 255, 255, .65);
+    text-align: center;
+}
+
+
+form{
+    text-align: center;
+}
+
+.container-fluid{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, .65);
+    text-align: center;
+}
+
+#subpost{
+    font-size: 14pt;
+}
+
+
